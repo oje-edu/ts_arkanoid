@@ -34,5 +34,11 @@ canvas {
 
 #score,
 #info {
-  width: 200px;
+  width: 100%;
+}
+
+button#start {
+  background: rgb(82, 177, 82);
+  border-radius: 16px;
+  margin: 0 15px;
 }
