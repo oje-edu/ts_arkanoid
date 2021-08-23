@@ -1,3 +1,4 @@
 # Arkanoid
 
-![Easy Peasy](shot.png)
+![Start](shot0.png)
+![Easy Peasy](shot1.png)
